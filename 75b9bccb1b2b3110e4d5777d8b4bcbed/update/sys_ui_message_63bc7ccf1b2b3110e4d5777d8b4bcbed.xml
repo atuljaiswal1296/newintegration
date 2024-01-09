@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>intgration_user_not_found</key>
+        <language>en</language>
+        <message>Integration user not found</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-09 20:04:07</sys_created_on>
+        <sys_id>63bc7ccf1b2b3110e4d5777d8b4bcbed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>intgration_user_not_found</sys_name>
+        <sys_package display_value="New Integration" source="x_snc_new_integrat">75b9bccb1b2b3110e4d5777d8b4bcbed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Integration">75b9bccb1b2b3110e4d5777d8b4bcbed</sys_scope>
+        <sys_update_name>sys_ui_message_63bc7ccf1b2b3110e4d5777d8b4bcbed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-09 20:04:07</sys_updated_on>
+    </sys_ui_message>
+</record_update>
